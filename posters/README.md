@@ -16,7 +16,7 @@ A digital advertising project created as part of my coursework.
 
 A magazine cover created as part of an academic design project.
 
-![Magazine Cover](MAGAZINE.jpg)
+[Magazine Cover](MAGAZINE.jpg)
 
 ---
 
