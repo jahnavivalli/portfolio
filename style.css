@@ -232,15 +232,44 @@ h2 {
 
 footer {
     padding: 100px 7%;
-    text-align: center;
     background: #050e1b;
 }
 
 footer h2 {
+    font-family: Georgia, serif;
+    font-size: clamp(36px, 4vw, 52px);
+    font-weight: normal;
     margin-bottom: 20px;
 }
 
-footer p {
+.contact-intro {
+    color: #c7d4e5;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.contact-label {
+    color: #7fa8d2;
+    font-size: 11px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+footer a {
+    display: inline-block;
+    color: #f5f7fa;
+    text-decoration: none;
+    font-size: 17px;
+    margin-bottom: 30px;
+    transition: 0.2s;
+}
+
+footer a:hover {
+    color: #7fa8d2;
+}
+
+footer p:last-child {
     color: #7fa8d2;
 }
 
